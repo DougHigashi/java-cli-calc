@@ -14,7 +14,7 @@ java calculator sum 1 2
 ```
 
 ```bash
-java calculator subctract 20 10
+java calculator subtract 20 10
 ```
 Or
 Run the ```launch.json``` in Vscode passing the arguments in the ```args``` object.
